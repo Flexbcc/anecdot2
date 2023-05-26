@@ -1,0 +1,17 @@
+{
+    "API_TOKEN": "6251782445:AAEU-LAm8Vhcm35JkS8QYpftY1vcjsXLa40",
+    "timers": {
+        "nnn": {
+            "type": "cron",
+            "hours": "8-22",
+            "minutes": "*/3",
+            "args": "base1"
+        }
+    },
+    "hashtag_text": [
+        "#hashtag1",
+        "#hashtag1"
+    ],
+    "about_text_link": "https://t.me/rassmehnilo",
+    "about_text_text": "Подпишись на канал АНЕКДОТЫ | РАССМЕШНИЛО"
+}
